@@ -1,4 +1,5 @@
-# Dice Game
+# RollScape
+
 
 ## Project Overview
 This project is an interactive dice game built using the React JavaScript library. The game features a user-friendly interface where players can select a number between 1 and 6 and roll a virtual dice. The score is calculated based on the player's selection and the outcome of the dice roll. Players can reset the game at any time to start fresh.
