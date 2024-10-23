@@ -43,8 +43,7 @@ To run the game locally, follow these steps:
        npm run dev
 
 
-## Project Video
-[Download Dice Game Video](DiceProject-video.mp4)
+
 
 
 
