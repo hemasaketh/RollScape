@@ -37,6 +37,9 @@ To run the game locally, follow these steps:
     ```bash
        npm start
 
+## Project Video
+
+![Dice Game Video](dice_game_trim.mp4)
 
  If you're using Vite as your build tool, the command to start the development server is:
  use command:
