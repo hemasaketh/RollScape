@@ -23,7 +23,7 @@ To run the game locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hemasaketh/RollScape
+   git clone https://github.com/hemasaketh/RollScape```
    
 2. Navigate to the project Directory
    ```bash
@@ -39,12 +39,11 @@ To run the game locally, follow these steps:
 
  If you're using Vite as your build tool, the command to start the development server is:
  use command:
-```bash
- npm run dev
+   ```bash
+       npm run dev
 
 
 ## Project Video
-
 [Download Dice Game Video](DiceProject-video.mp4)
 
 
