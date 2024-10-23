@@ -1,4 +1,4 @@
-# RollScape
+# RollScape: Prestige Dice (Dice Game)
 
 
 ## Project Overview
@@ -17,5 +17,20 @@ This project is an interactive dice game built using the React JavaScript librar
 - **HTML**: For structuring the game layout.
 - **CSS**: For styling the components and ensuring responsive design.
 - **Styled-components**: For styling React components with ease.
+
+## Getting Started
+To run the game locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/hemasaketh/RollScape
+
+2.cd DiceProject
+3.npm install 
+4.npm start
+
+ If you're using Vite as your build tool, the command to start the development server is:
+ use command:
+ npm run dev
 
 
